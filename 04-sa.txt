@@ -1,0 +1,2 @@
+sa arkadaşlar git add 00 yaptım changes to be comited diyor ama ben bütün dosyayı alsın diye şimdi git add . yapıcam ki mevcut dosyanın hepsini alsın. sonra da git rm ile birini düsürürüm test amacli 99-sa.txt oluşturup onda yaparım o commit edilmez siz de okuyamazsınız
+---------------sa arkadaşlar yaptım rmyi çıkardı şimdi az önce bir değişiklik yapacağım mevcut 04 içinde bakalım yakalayabilecek mi normalde ayrı file içine yazabilirdim de farkı anlayabilmek için böyle yapıyorum. teşekkürler.

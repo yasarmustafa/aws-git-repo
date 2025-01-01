@@ -1,0 +1,1 @@
+sa arkadaşlar farkettim ki ls -lah yazında klasörün içinde .git diye bir klasör oluştu

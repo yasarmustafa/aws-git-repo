@@ -1,0 +1,1 @@
+arkadaşlar değişikliği algıladı git status yazınca modified diyor değişiklikleri geri çekmem için git restore dosya adı kullan böyle güncellensin istersen de git add 04 olarak komut gir diyor. teşekkürler.
