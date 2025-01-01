@@ -1,0 +1,1 @@
+selamlar arkadaşlar 2 commit attım şimdi git origin ile githuba pushlamaya niyetim var githubda aws repo diye bir şey oluşturdum herhangi bir branch oluşturmadım ilk önce oraya pushlayıp sonra da branch mırach oluştururuz dert değil. teşekkürler.
