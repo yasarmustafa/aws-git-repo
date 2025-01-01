@@ -1,1 +1,1 @@
-sa arkadaşlar burada artık giti inişialeyz ettimi git status yazdım 00 ve 01 dosyalarım no commits yet untracked files altında kırmızı untucked files dedi ekstra spesifik şu dosya da eklensin demek istersen git add dosya adı kullan diyor 
+sa arkadaslar burada artık giti initialize ederek git status yazdım 00 ve 01 dosyalarım no commits yet untracked files altında kırmızı untucked files dedi ekstra spesifik şu dosya da eklensin demek istersen git add dosya adı kullan diyor 
